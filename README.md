@@ -11,3 +11,4 @@ python zero_shot.py
 # Some of the comparisons are as follows
 ![example1](img1.png)
 ![example2](img2.png)
+![example3](img3.png)
